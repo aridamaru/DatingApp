@@ -6,3 +6,4 @@
 *.code-workspace.vs
 .vscode
 .vs/*
+.vs
